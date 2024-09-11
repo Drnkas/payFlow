@@ -22,10 +22,10 @@ Abaixo estão algumas telas do aplicativo:
   <img src="assets/images/print4.png" width="250px">
 </p>
 
-- **Imagem 1**: Tela de login.
-- **Imagem 2**: Dashboard com boletos pendentes.
-- **Imagem 3**: Tela de cadastro de boletos.
-- **Imagem 4**: Detalhes dos boletos salvos.
+- **Imagem 1**: Tela de Splash.
+- **Imagem 2**: Tela de login.
+- **Imagem 3**: Detalhes dos boletos salvos.
+- **Imagem 4**: Camera para leitura de boletos.
 
 ## 🚀 Funcionalidades
 
